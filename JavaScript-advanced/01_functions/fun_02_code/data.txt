@@ -1,0 +1,7 @@
+Bart Simpson	run	100	5
+Bart Simpson	sleep	200	4
+Bart Simpson	look cartoon	90	6
+Homer Simpson	drink beer	100	1
+Homer Simpson	working in station	10	2
+Homer Simpson	sleep	200	10
+Bart Simpson	driver	70	4
